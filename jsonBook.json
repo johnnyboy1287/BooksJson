@@ -1,8 +1,8 @@
 {
 
-	"Title":["Foundation","A Short History of Nearly Everything","Dress Your Family in Corduroy and Denim"]
-	"Author":["Isaac Asimov", "Bill Bryson", "David Sedaris"]
-	"Date Published":[1942, 2004, 2005]
+	"Title":["Foundation","A Short History of Nearly Everything","Dress Your Family in Corduroy and Denim"],
+	"Author":["Isaac Asimov", "Bill Bryson", "David Sedaris"],
+	"Date Published":["1942","2004","2005"],
 	"Genre":["Sci-Fi", "Informational", "Humor"]
 
 }
